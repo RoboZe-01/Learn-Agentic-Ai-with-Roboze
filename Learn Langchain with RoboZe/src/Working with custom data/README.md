@@ -144,3 +144,5 @@ print(result)
 * Steps: **Load → Split → Embed → Store → Retrieve → Answer**.
 * Start small with PDFs + FAISS, then scale to production with Pinecone/Weaviate.
 * Add monitoring (LangSmith) & deployment (LangServe) for real-world apps.
+
+Mke this
